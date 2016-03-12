@@ -1,0 +1,9 @@
+E:\MyWorks\Projects\Website\udayanga.me\Blog\C#\Notepad\Notepad\bin\Debug\Notepad.exe.config
+E:\MyWorks\Projects\Website\udayanga.me\Blog\C#\Notepad\Notepad\bin\Debug\Notepad.exe
+E:\MyWorks\Projects\Website\udayanga.me\Blog\C#\Notepad\Notepad\bin\Debug\Notepad.pdb
+E:\MyWorks\Projects\Website\udayanga.me\Blog\C#\Notepad\Notepad\obj\Debug\Notepad.csprojResolveAssemblyReference.cache
+E:\MyWorks\Projects\Website\udayanga.me\Blog\C#\Notepad\Notepad\obj\Debug\Notepad.Form1.resources
+E:\MyWorks\Projects\Website\udayanga.me\Blog\C#\Notepad\Notepad\obj\Debug\Notepad.Properties.Resources.resources
+E:\MyWorks\Projects\Website\udayanga.me\Blog\C#\Notepad\Notepad\obj\Debug\Notepad.csproj.GenerateResource.Cache
+E:\MyWorks\Projects\Website\udayanga.me\Blog\C#\Notepad\Notepad\obj\Debug\Notepad.exe
+E:\MyWorks\Projects\Website\udayanga.me\Blog\C#\Notepad\Notepad\obj\Debug\Notepad.pdb
