@@ -14,12 +14,16 @@ namespace Notepad
     {
         public Form1()
         {
-            InitializeComponent();
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
             //textBox1.Text = "Hellow world";
+        }
+
+        private void fileToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
